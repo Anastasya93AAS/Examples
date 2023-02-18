@@ -1,0 +1,15 @@
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\bin\Debug\net6.0\Example004Div.exe
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\bin\Debug\net6.0\Example004Div.deps.json
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\bin\Debug\net6.0\Example004Div.runtimeconfig.json
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\bin\Debug\net6.0\Example004Div.dll
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\bin\Debug\net6.0\Example004Div.pdb
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\obj\Debug\net6.0\Example004Div.csproj.AssemblyReference.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\obj\Debug\net6.0\Example004Div.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\obj\Debug\net6.0\Example004Div.AssemblyInfoInputs.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\obj\Debug\net6.0\Example004Div.AssemblyInfo.cs
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\obj\Debug\net6.0\Example004Div.csproj.CoreCompileInputs.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\obj\Debug\net6.0\Example004Div.dll
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\obj\Debug\net6.0\refint\Example004Div.dll
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\obj\Debug\net6.0\Example004Div.pdb
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\obj\Debug\net6.0\Example004Div.genruntimeconfig.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example004Div\obj\Debug\net6.0\ref\Example004Div.dll

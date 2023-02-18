@@ -1,0 +1,15 @@
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\obj\Debug\net6.0\Example005IfElse.csproj.AssemblyReference.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\obj\Debug\net6.0\Example005IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\obj\Debug\net6.0\Example005IfElse.AssemblyInfoInputs.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\obj\Debug\net6.0\Example005IfElse.AssemblyInfo.cs
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\obj\Debug\net6.0\Example005IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\bin\Debug\net6.0\Example005IfElse.exe
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\bin\Debug\net6.0\Example005IfElse.deps.json
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\bin\Debug\net6.0\Example005IfElse.runtimeconfig.json
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\bin\Debug\net6.0\Example005IfElse.dll
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\bin\Debug\net6.0\Example005IfElse.pdb
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\obj\Debug\net6.0\Example005IfElse.dll
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\obj\Debug\net6.0\refint\Example005IfElse.dll
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\obj\Debug\net6.0\Example005IfElse.pdb
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\obj\Debug\net6.0\Example005IfElse.genruntimeconfig.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example005IfElse\obj\Debug\net6.0\ref\Example005IfElse.dll
