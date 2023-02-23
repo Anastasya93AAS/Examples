@@ -1,0 +1,15 @@
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\bin\Debug\net6.0\Example007Magic.exe
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\bin\Debug\net6.0\Example007Magic.deps.json
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\bin\Debug\net6.0\Example007Magic.runtimeconfig.json
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\bin\Debug\net6.0\Example007Magic.dll
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\bin\Debug\net6.0\Example007Magic.pdb
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\obj\Debug\net6.0\Example007Magic.csproj.AssemblyReference.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\obj\Debug\net6.0\Example007Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\obj\Debug\net6.0\Example007Magic.AssemblyInfoInputs.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\obj\Debug\net6.0\Example007Magic.AssemblyInfo.cs
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\obj\Debug\net6.0\Example007Magic.csproj.CoreCompileInputs.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\obj\Debug\net6.0\Example007Magic.dll
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\obj\Debug\net6.0\refint\Example007Magic.dll
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\obj\Debug\net6.0\Example007Magic.pdb
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\obj\Debug\net6.0\Example007Magic.genruntimeconfig.cache
+C:\Users\Skeletonik\Desktop\GB\Новая папка\Examples\Examples\Example007Magic\obj\Debug\net6.0\ref\Example007Magic.dll
